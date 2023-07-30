@@ -1,0 +1,14 @@
+body {
+	padding: 20px;
+	/* background-color: #000; */
+	/* color: #fff; */
+}
+
+.table {
+	/* color: #fff; */
+}
+
+.active {
+	color: blue !important;
+	border-bottom: 2px solid blue;
+}
